@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Teenage Concerns
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has two parts:
+1. FrontEnd - This branch consists of all the front end stuff made using React.
+2. BackEnd - This branch consists of all the back end stuff, written in NodeJS and uses socket.io for the chat feature
+
+Currently, 
+- User can register
+- User can login
+- Volunteer can register
+- Volunteer can Login
+- User can find Volunteer
+- Volunteer Dashboard
+- Anonymous Chat option between Volunteer and User
 
 ## Available Scripts
 
